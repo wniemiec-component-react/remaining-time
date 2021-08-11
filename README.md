@@ -55,8 +55,6 @@ import React from 'react';
 |hours |`number`|Hour | `23` |
 |minutes |`number`|Minute| `59` |
 |seconds |`number`|Second | `59` |
-|fgColor |`string`|Text color | `"#000000"` |
-|style |`object`|Custom style | `null` |
 
 ## 🚩 Changelog
 Details about each version are documented in the [releases section](https://github.com/wniemiec-component-react/remaining-time/releases).
