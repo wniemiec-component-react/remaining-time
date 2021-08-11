@@ -1,0 +1,25 @@
+{
+  "name": "@wniemiec-component-react/remaining-time",
+  "version": "1.0.0",
+  "description": "Displays how many hours, minutes and seconds are left until a certain hour, minute and second.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wniemiec-components-react/remaining-time.git"
+  },
+  "keywords": [
+	"wniemiec-component-react"
+    "wniemiec",
+    "component",
+    "react",
+    "remaining-time",
+    "remaining",
+    "time"
+  ],
+  "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wniemiec-components-react/remaining-time/issues"
+  },
+  "homepage": "https://github.com/wniemiec-components-react/remaining-time#readme"
+}
